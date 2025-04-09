@@ -36,7 +36,7 @@ Assister AI Incentivized Testnet
 
 ### Linux
 1. clone project repo 
-   ```git clone https://github.com/Widiskel/assisterr-daily-bot](https://github.com/localsec/assisterr-daily-bot.git``` 
+   ```git clone https://github.com/localsec/assisterr-daily-bot.git``` 
    ```cd assisterr-daily-bot```
 2. Run 
    ```npm install```
