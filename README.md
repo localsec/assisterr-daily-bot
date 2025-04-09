@@ -36,16 +36,17 @@ Assister AI Incentivized Testnet
 
 ### Linux
 1. clone project repo 
-   ```git clone https://github.com/localsec/assisterr-daily-bot.git``` 
+   ```git clone https://github.com/localsec/assisterr-daily-bot.git```
+    
    ```cd assisterr-daily-bot```
-2. Run 
-   ```npm install```
 3. Run 
-   ```cp accounts/accounts_tmp.js accounts/accounts.js```
+   ```npm install```
 4. Run 
+   ```cp accounts/accounts_tmp.js accounts/accounts.js```
+5. Run 
    ```nano accounts/account.js```.
    fill up with your wallet private key list
-5. to start the app run 
+6. to start the app run 
    ```npm start```.
    
 ## Update Bot
